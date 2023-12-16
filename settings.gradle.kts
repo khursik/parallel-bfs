@@ -1,0 +1,4 @@
+
+
+rootProject.name = "parallel-bfs"
+
