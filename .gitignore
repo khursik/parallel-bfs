@@ -1,4 +1,14 @@
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/kotlin/main/
+.idea
+
+.gradle
+gradlew.bat
+gradlew
+
+/build/classes
+/build/jmh-generated-classes
+/build/jmh-generated-sources
+/build/jmh-generated-resources
+/build/kotlin
+/build/libs
+/build/snapshot
+/build/tmp

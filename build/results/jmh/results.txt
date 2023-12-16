@@ -1,0 +1,3 @@
+Benchmark                          (dim)  (parallelism)  (sideLength)  (startNode)  Mode  Cnt      Score       Error  Units
+ParallelBFSBenchmark.parallel          3              4           500            0  avgt   15  23958,251 ±  1398,622  ms/op
+SequentialBFSBenchmark.sequential      3            N/A           500            0  avgt   15  69436,700 ± 24816,825  ms/op
